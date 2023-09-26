@@ -1,0 +1,9 @@
+[submodule "Socket-Programming"]
+	path = Socket-Programming
+	url = https://github.com/Theparia/Socket-Programming
+[submodule "MapReduce-Model-Using-Pipes"]
+	path = MapReduce-Model-Using-Pipes
+	url = https://github.com/Theparia/MapReduce-Model-Using-Pipes
+[submodule "Image-Filtering-Using-Multithreading"]
+	path = Image-Filtering-Using-Multithreading
+	url = https://github.com/Theparia/Image-Filtering-Using-Multithreading
